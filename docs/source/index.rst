@@ -1,7 +1,7 @@
 Welcome to Henrry Wikisites !
 =============================
 
-**Wikisites** is a collection of Project and Lecture Online that Collect and done by Henrry.
+**Wikisites** is a collection of Project and Lecture Online that collected and done by Henrry.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
@@ -19,3 +19,4 @@ Contents
 
    usage
    api
+   online_courses
