@@ -19,4 +19,4 @@ Contents
 
    usage
    api
-   online_courses
+   online_course
